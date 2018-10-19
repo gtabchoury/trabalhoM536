@@ -11,10 +11,10 @@ id,idade,genero,pais,estado
 10,23,Male,Canada,NA
 11,31,Male,United States,OH
 12,29,Male,Bulgaria,NA
-13,42,female,United States,CA
+13,42,Female,United States,CA
 14,36,Male,United States,CT
 15,27,Male,Canada,NA
-16,29,female,United States,IL
+16,29,Female,United States,IL
 17,23,Male,United Kingdom,NA
 18,32,Male,United States,TN
 19,46,Male,United States,MD
@@ -33,7 +33,7 @@ id,idade,genero,pais,estado
 32,31,Male,United States,PA
 33,30,Male,United Kingdom,NA
 34,42,Male,United States,WA
-35,40,female,United States,WI
+35,40,Female,United States,WI
 36,27,Male,United States,NY
 37,29,Male,Canada,NA
 38,38,Male,Portugal,NA
@@ -71,7 +71,7 @@ id,idade,genero,pais,estado
 70,34,Male,United States,NY
 71,28,Male,France,NA
 72,34,Male,Canada,NA
-73,23,Trans Female,United States,MA
+73,23,Non-binary,United States,MA
 74,38,Male,United Kingdom,NA
 75,33,Male,United States,CA
 76,19,Male,United Kingdom,NA
@@ -86,7 +86,7 @@ id,idade,genero,pais,estado
 85,33,Male,United States,CA
 86,31,Male,United States,TX
 87,39,Male,United Kingdom,NA
-88,34,female,United States,OR
+88,34,Female,United States,OR
 89,29,Female,United States,FL
 90,32,Male,United States,IL
 91,31,Male,United States,NY
@@ -99,7 +99,7 @@ id,idade,genero,pais,estado
 98,31,Male,Mexico,NA
 99,33,Male,United States,AZ
 100,30,Male,United States,IN
-101,26,female,Canada,NA
+101,26,Female,Canada,NA
 102,44,Female,United States,MA
 103,25,Male,United States,NY
 104,33,Male,United States,WI
@@ -193,14 +193,14 @@ id,idade,genero,pais,estado
 192,28,Male,United States,MI
 193,28,Male,Russia,NA
 194,35,Male,United States,CA
-195,32,female,Germany,NA
+195,32,Female,Germany,NA
 196,31,Male,Italy,NA
 197,35,Female,United States,NY
 198,26,Male,United States,CA
 199,27,Male,United States,TN
 200,28,Male,United Kingdom,NA
 201,27,Female,United States,OR
-202,34,female,United States,MN
+202,34,Female,United States,MN
 203,41,Male,United States,FL
 204,37,Male,Ireland,NA
 205,34,Male,Austria,NA
@@ -219,7 +219,7 @@ id,idade,genero,pais,estado
 218,31,Male,Canada,NA
 219,29,Female,United States,NY
 220,41,Male,United States,VA
-221,34,female,United States,WA
+221,34,Female,United States,WA
 222,33,Male,United Kingdom,NA
 223,28,Male,United States,PA
 224,28,Male,United States,MI
@@ -270,7 +270,7 @@ id,idade,genero,pais,estado
 269,37,Female,United States,CA
 270,32,Male,United States,CO
 271,30,Male,Ireland,NA
-272,23,female,United States,MN
+272,23,Female,United States,MN
 273,30,Male,United States,NJ
 274,34,Male,United Kingdom,NA
 275,38,Male,United States,PA
@@ -302,7 +302,7 @@ id,idade,genero,pais,estado
 301,23,Female,United States,NY
 302,31,Female,United States,CA
 303,26,Male,United States,MA
-304,28,female,United States,WA
+304,28,Female,United States,WA
 305,37,Female,United States,CA
 306,26,Male,Canada,NA
 307,30,Non-binary,United States,IL
@@ -322,7 +322,7 @@ id,idade,genero,pais,estado
 321,41,Male,United States,SD
 322,29,Male,United States,CA
 323,32,Male,United States,OR
-324,24,female,United States,CA
+324,24,Female,United States,CA
 325,25,Male,United States,CA
 326,25,Male,United States,CA
 327,30,Female,United States,CO
@@ -375,7 +375,7 @@ id,idade,genero,pais,estado
 374,32,Female,United States,WA
 375,21,Female,United States,CA
 376,45,Male,United States,MA
-377,27,female,United States,WA
+377,27,Female,United States,WA
 378,25,Female,United States,WA
 379,34,Female,United States,NY
 380,26,Female,United States,CA
@@ -384,19 +384,19 @@ id,idade,genero,pais,estado
 383,31,Male,United States,IN
 384,25,Male,Germany,NA
 385,26,Male,United States,NV
-386,27,female,United States,CO
+386,27,Female,United States,CO
 387,42,Male,New Zealand,NA
 388,29,,United States,CA
-389,25,female,United States,CA
+389,25,Female,United States,CA
 390,33,Female,Sweden,NA
-391,40,female,United States,PA
+391,40,Female,United States,PA
 392,31,Male,United States,SC
 393,26,Male,Canada,NA
-394,24,female,United States,TX
+394,24,Female,United States,TX
 395,29,Male,United States,TX
 396,48,Male,United Kingdom,NA
 397,35,Male,United Kingdom,NA
-398,32,female,United States,AL
+398,32,Female,United States,AL
 399,29,Male,Canada,NA
 400,26,Male,United States,OR
 401,28,Male,United States,NJ
@@ -407,7 +407,7 @@ id,idade,genero,pais,estado
 406,33,Male,United States,NH
 407,33,Male,United States,CA
 408,22,Male,Brazil,NA
-409,30,female,Spain,NA
+409,30,Female,Spain,NA
 410,33,Male,United States,OH
 411,31,Female,United States,OH
 412,21,Male,United States,MA
@@ -432,16 +432,16 @@ id,idade,genero,pais,estado
 431,24,Female,United States,NY
 432,33,Male,United States,MS
 433,34,Male,United States,NJ
-434,27,female,United States,CA
+434,27,Female,United States,CA
 435,28,Male,United States,TN
 436,26,Male,United States,WA
 437,20,Male,Australia,NA
-438,23,female,United States,MA
+438,23,Female,United States,MA
 439,29,Male,United States,PA
 440,26,Male,United Kingdom,NA
 441,36,Male,United States,KY
 442,41,Male,United States,PA
-443,33,female,United States,MA
+443,33,Female,United States,MA
 444,23,Male,Canada,NA
 445,39,Male,United States,CA
 446,34,Male,United States,VT
@@ -459,7 +459,7 @@ id,idade,genero,pais,estado
 458,32,Male,United Kingdom,NA
 459,37,Male,United States,OR
 460,29,Male,United Kingdom,NA
-461,33,Female ,United States,CA
+461,33,Female,United States,CA
 462,28,Male,United States,UT
 463,26,Female,United States,CA
 464,27,Male,United States,TX
@@ -477,7 +477,7 @@ id,idade,genero,pais,estado
 476,27,Male,Germany,NA
 477,23,Male,Germany,NA
 478,18,Male,Finland,NA
-479,30,female,United States,NY
+479,30,Female,United States,NY
 480,23,Male,United States,VA
 481,43,Male,United States,CA
 482,18,Female,United Kingdom,NA
@@ -495,10 +495,10 @@ id,idade,genero,pais,estado
 494,25,Male,United States,WA
 495,23,Female,United States,NY
 496,36,Male,United States,TX
-497,25,female,United States,CA
+497,25,Female,United States,CA
 498,54,Male,United Kingdom,NA
 499,34,Male,Netherlands,NA
-500,38,female,United States,AZ
+500,38,Female,United States,AZ
 501,40,Male,Ireland,NA
 502,32,Male,United Kingdom,NA
 503,25,Male,Germany,NA
@@ -530,7 +530,7 @@ id,idade,genero,pais,estado
 529,31,Female,Canada,NA
 530,27,Male,United Kingdom,NA
 531,31,Male,Australia,NA
-532,27,female,Hungary,NA
+532,27,Female,Hungary,NA
 533,23,Male,Sweden,NA
 534,21,Male,Canada,NA
 535,27,Female,Australia,NA
@@ -541,16 +541,16 @@ id,idade,genero,pais,estado
 540,26,Female,United States,MN
 541,31,Female,United States,PA
 542,32,Male,United Kingdom,NA
-543,28,female,United States,CA
+543,28,Female,United States,CA
 544,28,Non-binary,United Kingdom,NA
-545,23,female,United Kingdom,NA
+545,23,Female,United Kingdom,NA
 546,30,Male,United Kingdom,NA
 547,36,Male,United States,CA
 548,21,Male,United States,CA
 549,30,Male,Germany,NA
 550,25,Female,United States,CA
 551,32,Male,New Zealand,NA
-552,29,female,Canada,NA
+552,29,Female,Canada,NA
 553,21,Non-binary,United Kingdom,NA
 554,27,Female,New Zealand,NA
 555,32,Female,Canada,NA
@@ -621,7 +621,7 @@ id,idade,genero,pais,estado
 620,24,Male,Germany,NA
 621,22,Male,Netherlands,NA
 622,31,Female,United States,WA
-623,23,female,United States,CA
+623,23,Female,United States,CA
 624,31,Female,United States,OR
 625,28,Female,United States,CA
 626,37,Non-binary,Canada,NA
@@ -631,7 +631,7 @@ id,idade,genero,pais,estado
 630,24,Female,United Kingdom,NA
 631,56,Male,United States,MA
 632,31,Male,Germany,NA
-633,34,female,United States,CA
+633,34,Female,United States,CA
 634,35,Male,Germany,NA
 635,28,Male,Germany,NA
 636,36,Male,Poland,NA
@@ -642,7 +642,7 @@ id,idade,genero,pais,estado
 641,35,Male,Germany,NA
 642,29,Female,Australia,NA
 643,57,Male,United States,CA
-644,31,female,Belgium,NA
+644,31,Female,Belgium,NA
 645,37,Male,Ireland,NA
 646,25,Male,Ireland,NA
 647,30,Male,Australia,NA
@@ -671,7 +671,7 @@ id,idade,genero,pais,estado
 670,26,Male,Russia,NA
 671,23,Male,United States,NC
 672,26,Male,Canada,NA
-673,26,female,Israel,NA
+673,26,Female,Israel,NA
 674,35,Male,Canada,NA
 675,28,Male,United States,IL
 676,22,Male,India,NA
@@ -680,11 +680,11 @@ id,idade,genero,pais,estado
 679,45,Male,United States,VA
 680,33,Male,Bulgaria,NA
 681,38,Male,United States,MN
-682,19,Trans Female,United States,MO
-683,29,female,Canada,NA
+682,19,Non-binary,United States,MO
+683,29,Female,Canada,NA
 684,21,Female,United Kingdom,NA
 685,23,Female,India,NA
-686,33,female,United States,NC
+686,33,Female,United States,NC
 687,49,Male,United States,NY
 688,28,Male,United States,NM
 689,27,Female,United Kingdom,NA
@@ -790,21 +790,21 @@ id,idade,genero,pais,estado
 789,39,Male,Switzerland,NA
 790,29,Male,United Kingdom,NA
 791,33,Male,United States,NY
-792,37,female,United States,TX
+792,37,Female,United States,TX
 793,35,Female,United States,LA
 794,22,Female,United States,WA
 795,38,Male,United States,MI
 796,32,Female,United States,CA
 797,28,Male,Brazil,NA
 798,27,Male,Switzerland,NA
-799,35,female,United States,CA
+799,35,Female,United States,CA
 800,29,Male,United States,MD
 801,23,Male,United States,CA
 802,39,Male,United States,CT
 803,30,Female,United States,CA
 804,32,Male,United Kingdom,NA
-805,28,Trans Female,United States,CA
-806,40,female,United States,WA
+805,28,Non-binary,United States,CA
+806,40,Female,United States,WA
 807,36,Female,United States,CA
 808,27,Male,United States,IN
 809,41,Male,United States,TX
@@ -826,7 +826,7 @@ id,idade,genero,pais,estado
 825,48,Female,United States,CA
 826,20,Male,United States,WA
 827,40,Male,United States,MI
-828,29,female,United Kingdom,NA
+828,29,Female,United Kingdom,NA
 829,35,Male,United States,MI
 830,29,Male,United States,WI
 831,40,Male,United States,CA
@@ -834,7 +834,7 @@ id,idade,genero,pais,estado
 833,29,Female,United States,CA
 834,34,Male,United States,TX
 835,44,Male,United Kingdom,NA
-836,24,female,United States,NY
+836,24,Female,United States,NY
 837,47,Female,United States,PA
 838,43,Male,United Kingdom,NA
 839,36,Male,United States,PA
@@ -905,7 +905,7 @@ id,idade,genero,pais,estado
 904,51,Male,United States,CO
 905,49,Male,United States,OR
 906,30,Male,United States,OK
-907,25,female,United States,OH
+907,25,Female,United States,OH
 908,36,Male,United States,TN
 909,48,Male,United States,VA
 910,48,Male,Australia,NA
@@ -951,7 +951,7 @@ id,idade,genero,pais,estado
 950,34,Male,Netherlands,NA
 951,24,Male,United Kingdom,NA
 952,61,Male,South Africa,NA
-953,36,Female ,United States,WA
+953,36,Female,United States,WA
 954,38,Male,United States,TN
 955,33,Male,Germany,NA
 956,30,Male,United States,WA
@@ -967,7 +967,7 @@ id,idade,genero,pais,estado
 966,26,Female,United Kingdom,NA
 967,25,Male,United Kingdom,NA
 968,45,Male,United Kingdom,NA
-969,33,female,United Kingdom,NA
+969,33,Female,United Kingdom,NA
 970,43,Male,United States,MI
 971,30,Male,United Kingdom,NA
 972,40,Male,United States,IN
@@ -980,7 +980,7 @@ id,idade,genero,pais,estado
 979,28,Male,United Kingdom,NA
 980,40,Male,United States,ME
 981,37,Female,Canada,NA
-982,34,female,United Kingdom,NA
+982,34,Female,United Kingdom,NA
 983,28,Male,United States,NY
 984,27,Male,Canada,NA
 985,29,Male,United Kingdom,NA
@@ -1000,7 +1000,7 @@ id,idade,genero,pais,estado
 999,25,Male,United States,PA
 1000,42,Male,United States,IN
 1001,34,Male,United States,PA
-1002,26,female,United States,OH
+1002,26,Female,United States,OH
 1003,35,Male,United Kingdom,NA
 1004,34,Male,United Kingdom,NA
 1005,38,Male,United States,PA
@@ -1008,13 +1008,13 @@ id,idade,genero,pais,estado
 1007,39,Male,United States,IN
 1008,44,Female,United States,CA
 1009,40,Male,United States,TN
-1010,33,female,United States,TX
+1010,33,Female,United States,TX
 1011,24,Female,United States,TN
 1012,38,Female,United States,OR
 1013,31,Male,United States,SD
 1014,23,Male,Israel,NA
 1015,26,Female,United States,NY
-1016,46,Trans Female,United States,CT
+1016,46,Non-binary,United States,CT
 1017,30,Male,United States,CA
 1018,25,Male,United States,NA
 1019,19,Male,Canada,NA
@@ -1023,9 +1023,9 @@ id,idade,genero,pais,estado
 1022,32,Male,United Kingdom,NA
 1023,37,Male,United States,IN
 1024,42,Male,United States,CA
-1025,25,female,United States,OR
+1025,25,Female,United States,OR
 1026,19,Male,United States,IN
-1027,40,female,United States,GA
+1027,40,Female,United States,GA
 1028,34,Male,United States,IN
 1029,26,Male,United States,MN
 1030,31,Male,United States,MN
@@ -1037,7 +1037,7 @@ id,idade,genero,pais,estado
 1036,44,Male,United States,MO
 1037,34,Female,United States,CA
 1038,35,Male,United States,OR
-1039,28,female,United States,OH
+1039,28,Female,United States,OH
 1040,33,Male,United States,NY
 1041,40,Male,United States,WI
 1042,26,Male,United States,WA
@@ -1047,7 +1047,7 @@ id,idade,genero,pais,estado
 1046,28,Male,Brazil,NA
 1047,41,Male,United States,IL
 1048,39,Male,United Kingdom,NA
-1049,26,female,United States,WA
+1049,26,Female,United States,WA
 1050,23,Female,United States,IL
 1051,35,Male,Switzerland,NA
 1052,36,Male,United States,FL
@@ -1075,12 +1075,12 @@ id,idade,genero,pais,estado
 1074,40,Male,United States,WA
 1075,43,Male,United States,VA
 1076,27,Female,United States,WA
-1077,37,female,United States,NJ
+1077,37,Female,United States,NJ
 1078,32,Male,Netherlands,NA
 1079,25,Male,United States,UT
 1080,29,Male,Netherlands,NA
 1081,30,Female,United States,TN
-1082,34,female,Canada,NA
+1082,34,Female,Canada,NA
 1083,32,Male,United Kingdom,NA
 1084,37,Male,Germany,NA
 1085,41,Male,Germany,NA
@@ -1105,7 +1105,7 @@ id,idade,genero,pais,estado
 1104,25,Male,United States,SC
 1105,50,Male,France,NA
 1106,26,Male,Australia,NA
-1107,33,female,United States,CA
+1107,33,Female,United States,CA
 1108,30,Male,India,NA
 1109,33,Male,Croatia,NA
 1110,29,Male,France,NA
@@ -1120,10 +1120,10 @@ id,idade,genero,pais,estado
 1119,32,Male,United Kingdom,NA
 1120,44,Male,United Kingdom,NA
 1121,33,Female,United Kingdom,NA
-1122,45,female,United States,MI
+1122,45,Female,United States,MI
 1123,35,Male,United States,NY
 1124,26,Male,Germany,NA
-1125,20,female,United States,NY
+1125,20,Female,United States,NY
 1126,37,Male,Netherlands,NA
 1127,28,Male,United States,MI
 1128,42,Female,United States,WA
@@ -1139,7 +1139,7 @@ id,idade,genero,pais,estado
 1138,26,Male,Moldova,NA
 1139,29,Male,Sweden,NA
 1140,28,Male,Belgium,NA
-1141,27,female,United Kingdom,NA
+1141,27,Female,United Kingdom,NA
 1142,23,Male,Israel,NA
 1143,26,Female,United States,NY
 1144,38,Male,United Kingdom,NA
@@ -1175,14 +1175,14 @@ id,idade,genero,pais,estado
 1174,26,Female,United States,MI
 1175,29,Male,United States,OH
 1176,40,Male,China,NA
-1177,25,female,Bulgaria,UT
+1177,25,Female,Bulgaria,UT
 1178,32,Female,United States,NY
 1179,38,Male,United States,CA
 1180,72,Female,United States,IN
-1181,35,female,United States,IN
+1181,35,Female,United States,IN
 1182,28,Female,United States,VA
 1183,27,Female,United States,OK
-1184,56,female,United States,OR
+1184,56,Female,United States,OR
 1185,38,Male,United States,AL
 1186,31,Female,Belgium,NA
 1187,40,Male,United States,AL
@@ -1191,7 +1191,7 @@ id,idade,genero,pais,estado
 1190,37,Male,United Kingdom,NA
 1191,38,Male,Italy,NA
 1192,27,Male,Germany,NA
-1193,34,female,Ireland,NA
+1193,34,Female,Ireland,NA
 1194,35,Female,Ireland,NA
 1195,34,Male,Ireland,NA
 1196,32,Male,United States,TX
@@ -1218,10 +1218,10 @@ id,idade,genero,pais,estado
 1217,38,Male,United States,TX
 1218,46,Male,United States,CA
 1219,46,Male,United States,MD
-1220,41,female,Netherlands,NA
+1220,41,Female,Netherlands,NA
 1221,23,Male,United Kingdom,NA
 1222,24,Male,Ireland,NA
-1223,23,female,Ireland,NA
+1223,23,Female,Ireland,NA
 1224,39,Male,Netherlands,NA
 1225,32,Female,Ireland,NA
 1226,25,Male,United States,MN
@@ -1240,7 +1240,7 @@ id,idade,genero,pais,estado
 1239,31,Male,Poland,NA
 1240,28,Male,Ireland,NA
 1241,43,Female,United States,FL
-1242,32,female,United Kingdom,NA
+1242,32,Female,United Kingdom,NA
 1243,22,Male,Australia,NA
 1244,32,Male,United States,OR
 1245,36,Male,Finland,NA
