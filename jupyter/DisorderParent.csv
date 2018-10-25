@@ -1,4 +1,4 @@
-ID,Parents
+DisorderID,Parents
 http://purl.obolibrary.org/obo/DOID_8986,http://purl.obolibrary.org/obo/DOID_535
 http://purl.obolibrary.org/obo/OGMS_0000096,http://purl.obolibrary.org/obo/OBI_0000011
 http://purl.obolibrary.org/obo/OGMS_0000079,http://purl.obolibrary.org/obo/BFO_0000040
